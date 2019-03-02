@@ -11,7 +11,7 @@ Node library.
 
 ## Passport JS
 
-Uses the following node packages (passport and one passport strategy):
+Uses the following two node packages (the original passport library and one passport strategy library specific to google's OAuth service):
 
 passport
 passport-google-oath20
